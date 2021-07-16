@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Resep-Minuman-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_categories.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Resep-Minuman-main\\app\\src\\main\\res\\layout\\activity_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Resep-Minuman-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_recipe_drink.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Resep-Minuman-main\\app\\src\\main\\res\\layout\\activity_recipe_drink.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Resep-Minuman-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_drink.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Resep-Minuman-main\\app\\src\\main\\res\\layout\\list_item_drink.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Resep-Minuman-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list_drink.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Resep-Minuman-main\\app\\src\\main\\res\\layout\\activity_list_drink.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Resep-Minuman-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_categories.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Resep-Minuman-main\\app\\src\\main\\res\\layout\\list_item_categories.xml"
+    }
+]
