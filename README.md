@@ -5,3 +5,6 @@ Easy Shake is an application that will display recipes, ingredients, instruction
 ## Advanced Topic
 
 Advanced topic that i implemented in the app is Rest Retrofit API which data fetched from [cocktaildb api](https://www.thecocktaildb.com/api.php).
+
+## Link Playstore Page
+
